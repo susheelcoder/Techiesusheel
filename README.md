@@ -1,4 +1,4 @@
-# TechieSusheel (SusheelCoder) – Learn Programming & Web Development
+# TechieSusheel (CoderSusheel) – Learn Programming & Web Development
 
 TechieSusheel, also known as SusheelCoder, is an educational technology brand focused on teaching programming, web development, and modern coding skills in a simple, practical, and beginner-friendly way.
 
@@ -16,8 +16,8 @@ This repository helps students, beginners, and self-learners understand coding c
 - Self-taught developers
 
 ## 🔗 Related Links
-- 🌐 Website: https://techiesusheel.github.io  
-- 💻 GitHub Profile: https://github.com/susheelcoder/techiesusheel  
+- 🌐 Website: [techiesusheel.netlify.app](https://techiesusheel.netlify.app/)
+- 💻 GitHub Profile:[https://github.com/codersusheel/techiesushee/ ](https://github.com/codersusheel/techiesushee)l  
 
 ## Vision
 To make programming education simple, accessible, and career-focused.
