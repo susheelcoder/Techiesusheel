@@ -1,6 +1,6 @@
 # TechieSusheel (CoderSusheel) – Learn Programming & Web Development
 
-TechieSusheel, also known as SusheelCoder, is an educational technology brand focused on teaching programming, web development, and modern coding skills in a simple, practical, and beginner-friendly way.
+TechieSusheel, also known as codersusheel, is an educational technology brand focused on teaching programming, web development, and modern coding skills in a simple, practical, and beginner-friendly way.
 
 ## About
 This repository helps students, beginners, and self-learners understand coding concepts through real-world examples, hands-on projects, and clear explanations.
